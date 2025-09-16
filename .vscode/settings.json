@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "iris",
+        "ns": "DEMO3",
+        "active": true
+    }
+}
